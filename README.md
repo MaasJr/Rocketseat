@@ -1,6 +1,6 @@
 <h1 align="center">
-    < 📖 > <br>
-    🚀   Rocketseat
+    < 🚀 > <br>
+       Rocketseat
 </h1>
 
 <ul>
