@@ -7,8 +7,8 @@
 <h2>🚀   Rocketseat</h2>
 
 <ul>
-  <li><a href="https://github.com/MaasJr/Projetos/tree/master/Ecoleta">🌱 Ecoleta</a></li>
-  <li><a href="https://github.com/MaasJr/Projetos/tree/master/Nebula">🔮 Nebula</a></li>
+  <li><a href="https://github.com/MaasJr/Rocketseat/tree/main/Ecoleta">🌱 Ecoleta</a></li>
+  <li><a href="https://github.com/MaasJr/Rocketseat/tree/main/Nebula">🔮 Nebula</a></li>
 </ul>
 <h4 align="center"> Entre em contato comigo</h4>
 <p align="center">
