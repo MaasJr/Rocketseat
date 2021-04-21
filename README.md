@@ -1,10 +1,7 @@
 <h1 align="center">
     < 📖 > <br>
-    Meus Projetos
+    🚀   Rocketseat
 </h1>
-
-
-<h2>🚀   Rocketseat</h2>
 
 <ul>
   <li><a href="https://github.com/MaasJr/Rocketseat/tree/main/Ecoleta">🌱 Ecoleta</a></li>
